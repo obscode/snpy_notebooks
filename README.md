@@ -8,3 +8,12 @@ These use-cases may make it into the core SNooPy code base once they have been v
 
 Of course, you'll need to have [SNooPy installed](https://csp.obs.carnegiescience.edu/data/snpy), 
 as well as jupyter notebooks.
+
+## Using
+
+First, you'll want to download this repository into a working folder::
+  $ git clone https://github.com/obscode/snpy_notebooks
+  
+Then, cd to the folder and launch jypyter notebooks::
+   $ cd snpy_notebooks
+   $ jupyter notebook
