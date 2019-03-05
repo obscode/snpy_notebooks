@@ -11,9 +11,11 @@ as well as jupyter notebooks.
 
 ## Using
 
-First, you'll want to download this repository into a working folder::
-  $ git clone https://github.com/obscode/snpy_notebooks
+First, you'll want to download this repository into a working folder:
+
+    $ git clone https://github.com/obscode/snpy_notebooks
   
-Then, cd to the folder and launch jypyter notebooks::
-   $ cd snpy_notebooks
-   $ jupyter notebook
+Then, cd to the folder and launch jypyter notebooks:
+
+     $ cd snpy_notebooks
+     $ jupyter notebook
